@@ -34,6 +34,7 @@ social_networks:
 -  { name: wordpress, url: '' }
 -  { name: xing, url: '' }
 -  { name: bitcoin, url: '' }
+-  { name: etsy, url: 'https://www.etsy.com/uk/shop/MatisseAndCo'}
 
 # Modules Settings
 show_categories: 1
